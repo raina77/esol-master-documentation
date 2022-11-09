@@ -5,7 +5,7 @@
 ## 1. DB Service 란
 ### 1.1. 정의
 >기본적으로 SELECT, INSERT, UPDATE, DELETE 쿼리 수행  
->일반적인 MVC패턴의 controller 와 model 부분 담당
+>일반적인 MVC패턴의 controller 와 model 부분 담당 
 
 ### 1.2. 구조
 >DB Service(쿼리)를 작성(등록)하면 WEB상에 호출가능한 서비스(POST)로 생성<br/>
@@ -602,3 +602,4 @@ WHERE   ID = {‘#ID#’};
 
 
 
+ 
