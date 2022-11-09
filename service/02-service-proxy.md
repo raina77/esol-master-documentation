@@ -13,11 +13,11 @@
 
 🎈 __menu > 서비스 > Proxy Service > 생성__
 
-<img src = "./images/02-service-proxy-01.png" width = "750px"> </img>
+<img src = "./images/02-service-proxy-01.PNG" width = "750px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/02-service-proxy-01-2.png" width = "600px"> </img>
+<img src = "./images/02-service-proxy-01-2.PNG" width = "600px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -50,8 +50,8 @@
 
 🎈 __생성된 Proxy Service Item 선택 > 테스트실행__
 
-<img src = "./images/02-service-proxy-01-3.png" width = "750px"> </img>
+<img src = "./images/02-service-proxy-01-3.PNG" width = "750px"> </img>
 
 __테스트 결과__
 
-<img src = "./images/02-service-proxy-01-4.png" width = "700px"> </img>
+<img src = "./images/02-service-proxy-01-4.PNG" width = "700px"> </img>

@@ -12,11 +12,11 @@
 
 🎈 __menu > 서비스 > SAP Service > 생성__
 
-<img src = "./images/02-service-sap-01.png" width = "650px"> </img>
+<img src = "./images/02-service-sap-01.PNG" width = "650px"> </img>
 
 #### 2.1.1. SAP 서비스 속성
 
-<img src = "./images/02-service-sap-01-2.png" width = "600px"> </img>
+<img src = "./images/02-service-sap-01-2.PNG" width = "600px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -32,28 +32,28 @@
 #### 2.1.2. SAP 함수(RFC) 검색
 - 함수명란에 함수기입 후 검색하여 나온 결과물 중 사용 할 아이템 선택(더블클릭)
 
-<img src = "./images/02-service-sap-01-3.png" width = "600px"> </img>
+<img src = "./images/02-service-sap-01-3.PNG" width = "600px"> </img>
 
 #### 2.1.3. 검색된 함수(RFC) 구조 확인
 - 상단의 맵핑정보 클릭 후 함수구조 확인 가능 
 
-<img src = "./images/02-service-sap-01-4.png" width = "600px"> </img>
+<img src = "./images/02-service-sap-01-4.PNG" width = "600px"> </img>
 
 ### 2.2. 테스트
 
 1.테스트 할 아이템 선택후 테스트실행 클릭
 
-<img src = "./images/02-service-sap-01-5.png" width = "600px"> </img>
+<img src = "./images/02-service-sap-01-5.PNG" width = "600px"> </img>
 
 
 2.SAP RFC 입력 구조가 자동으로 생성  
 
-<img src = "./images/02-service-sap-01-6.png" width = "400px"> </img>
+<img src = "./images/02-service-sap-01-6.PNG" width = "400px"> </img>
 
 3.SAP RFC 입력 구조란에 값 입력  
 
-<img src = "./images/02-service-sap-01-7.png" width = "400px"> </img>
+<img src = "./images/02-service-sap-01-7.PNG" width = "400px"> </img>
 
 4.실행버튼 클릭 후 결과 값 확인  
 
-<img src = "./images/02-service-sap-01-8.png" width = "400px"> </img>
+<img src = "./images/02-service-sap-01-8.PNG" width = "400px"> </img>

@@ -11,11 +11,11 @@
 
 🎈 __Menu > 서비스 > File Service > 생성__
 
-<img src = "./images/02-service-file-01.png" width = "750px"> </img>
+<img src = "./images/02-service-file-01.PNG" width = "750px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/02-service-file-01-2.png" width = "1000px"> </img>
+<img src = "./images/02-service-file-01-2.PNG" width = "1000px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -44,9 +44,9 @@
 
 🎈 __생성된 File Service Item 선택 > 테스트실행__
 
-<img src = "./images/02-service-file-01-3.png" width = "750px"> </img>
+<img src = "./images/02-service-file-01-3.PNG" width = "750px"> </img>
 
-<img src = "./images/02-service-file-01-4.png" width = "400px"> </img>
+<img src = "./images/02-service-file-01-4.PNG" width = "400px"> </img>
 
 ```
 파일 업로드 서비스 테스트 완료 시 출력

@@ -11,18 +11,18 @@
 >DB Service(쿼리)를 작성(등록)하면 WEB상에 호출가능한 서비스(POST)로 생성<br/>
 >일반적으로 ajax를 통해 JSON을 주고 받는다.
 
-<img src = "./images/02-service-database-01.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-01.PNG" width = "1000px"> </img>
 
 ## 2. 사용법
 ### 2.1. 생성
 
 🎈 __Menu > 서비스 > DB Service > 생성__
 
-<img src = "./images/02-service-database-02-1.png" width = "400px"> </img>
+<img src = "./images/02-service-database-02-1.PNG" width = "400px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/02-service-database-02-2.png" width = "700px"> </img>
+<img src = "./images/02-service-database-02-2.PNG" width = "700px"> </img>
 
 | 구분 | 설명 |  
 |:--:|:--|  
@@ -44,13 +44,13 @@
 >실행 순서는 마우스를 이용하여 드로그앤드롭으로 순서를 정함  
 
 
-<img src = "./images/02-service-database-02-3.png" width = "700px"> </img>
+<img src = "./images/02-service-database-02-3.PNG" width = "700px"> </img>
 
 #### 2.3.1. Item Query 생성
 
 - query는 실제 query(DML)로 작성
 
-<img src = "./images/02-service-database-02-4.png" width = "700px"> </img>
+<img src = "./images/02-service-database-02-4.PNG" width = "700px"> </img>
 
 | 구분 | 설명 |  
 |:--:|:--|  
@@ -110,7 +110,7 @@ ORDER BY {'@COL_NAME@'}          /*치환변수*/
 ;
 ```
 
-<img src = "./images/02-service-database-02-5.png" width = "800px"> </img>
+<img src = "./images/02-service-database-02-5.PNG" width = "800px"> </img>
 
 #### 2.3.3. Items Process 생성
 
@@ -119,7 +119,7 @@ ORDER BY {'@COL_NAME@'}          /*치환변수*/
 
 - Process Name 과 입력 KEY를 입력 하고 하위에 Query를 작성
 
-<img src = "./images/02-service-database-02-6.png" width = "400px"> </img>
+<img src = "./images/02-service-database-02-6.PNG" width = "400px"> </img>
 
 #### 2.3.4. Items Case
 
@@ -232,7 +232,7 @@ input key : IN
 	
 - 쿼리를 선택하고 '검증' 버튼 클릭  
 
-<img src = "./images/02-service-database-02-10.png" width = "800px"> </img>
+<img src = "./images/02-service-database-02-10.PNG" width = "800px"> </img>
 
 #### 2.4.1. 검증 생성/수정
 - 입력 항목 명
@@ -241,10 +241,10 @@ input key : IN
       'query-sample001' 기준으로 NAME, COL_NAME
 - 에러메세지 검증실패 시 Client에 보내줄 에러메세지
 
-<img src = "./images/02-service-database-02-11.png" width = "500px"> </img>
+<img src = "./images/02-service-database-02-11.PNG" width = "500px"> </img>
 
 
-<img src = "./images/02-service-database-02-12.png" width = "500px"> </img>
+<img src = "./images/02-service-database-02-12.PNG" width = "500px"> </img>
 
 ⚙ __검증구분__  
 
@@ -260,9 +260,9 @@ input key : IN
 >클라이언트 사이드에서는 테스트의 json sample를 확인하고 입력 테스트 하고 결과값을 확인하여 개발 진행  
 >POST만 지원
 
-<img src = "./images/02-service-database-02-13.png" width = "500px"> </img>
+<img src = "./images/02-service-database-02-13.PNG" width = "500px"> </img>
 
-<img src = "./images/02-service-database-02-14.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-14.PNG" width = "1000px"> </img>
 
 ### 2.6. Cache
 #### 2.6.1. Cache Read
@@ -270,43 +270,43 @@ input key : IN
 >DB Service 결과를 Cache에 일정 시간 동안 저장하고 결과를 반환하는 기능  
 >CUD가 거의 없고 조회가 빈번한 경우만 사용 권장
 
-<img src = "./images/02-service-database-02-15.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-15.PNG" width = "1000px"> </img>
 
 #### 2.6.2. Cache Clear
 >DB Service 실행 후 Cache를 삭제하는 기능
 - 예) 공통코드 조회 DB Service가 Cache Read를 사용하는데<br/> 공통코드 추가, 삭제, 수정 DB Service가 실행된 경우 cache를 삭제
 
-<img src = "./images/02-service-database-02-16.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-16.PNG" width = "1000px"> </img>
 
 #### 2.6.3. IP Restrictions
 >해당 DB Service에 IP 별 접근 제한 기능
 
-<img src = "./images/02-service-database-02-17.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-17.PNG" width = "1000px"> </img>
 
 #### 2.6.4. 불러오기
 >다른 DB Service의 Query를 참조 해야 하는 경우
 
-<img src = "./images/02-service-database-02-18.png" width = "800px"> </img>
+<img src = "./images/02-service-database-02-18.PNG" width = "800px"> </img>
 
-<img src = "./images/02-service-database-02-19.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-19.PNG" width = "1000px"> </img>
 
 #### 2.6.5. Source
 >다른 DB Service의 전체 내용을 복사해서 사용 할 경우  
 >Source를 직접 수정하여 DB Service 내용 수정 가능  
 >Source 내용을 복사 하여 다른 DB Service에 적용하여 사용
 
-<img src = "./images/02-service-database-02-20.png" width = "800px"> </img>
+<img src = "./images/02-service-database-02-20.PNG" width = "800px"> </img>
 
-<img src = "./images/02-service-database-02-21.png" width = "1000px"> </img>
+<img src = "./images/02-service-database-02-21.PNG" width = "1000px"> </img>
 
 
 #### 2.6.6. History
 >DB Service 수정 시 이전 DB Service의 정보를 저장  
 >이전 DB Service의 History를 다시 불러 올 수 있는 기능
 
-<img src = "./images/02-service-database-02-22.png" width = "800px"> </img>
+<img src = "./images/02-service-database-02-22.PNG" width = "800px"> </img>
 
-<img src = "./images/02-service-database-02-23.png" width = "500px"> </img>
+<img src = "./images/02-service-database-02-23.PNG" width = "500px"> </img>
 
 ## 3. Dynamic Query
 ### 3.1. javascript
@@ -350,7 +350,7 @@ WHERE   	1=1
 
 ```
 
-<img src = "./images/02-service-database-03-1.png" width = "700px"> </img>
+<img src = "./images/02-service-database-03-1.PNG" width = "700px"> </img>
 
 #### 3.2.2. WHERE 절 IN 생성 query
 
@@ -380,7 +380,7 @@ WHERE   1=1
 
 ```
 
-<img src = "./images/02-service-database-03-2.png" width = "700px"> </img>
+<img src = "./images/02-service-database-03-2.PNG" width = "700px"> </img>
 
 #### 3.2.3. Skip 및 Exception
 - Query

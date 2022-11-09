@@ -17,7 +17,7 @@
 ## 2. 사용법
 ### 2.1. Keycloak 인증 설정
 
-<img src = "./images/03-management-tools-access-manager-02.png" width = "900px"> </img>
+<img src = "./images/03-management-tools-access-manager-02.PNG" width = "900px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -43,7 +43,7 @@
 > __Keycloak의 user 정보를 ESOL의 TOKEN에 맵핑 예__  
 > user info에 username, private.info.phone을 ESOL TOKEN에 USER_NAME, USER_PHONE
 
-<img src = "./images/03-management-tools-access-manager-03.png" width = "600px"> </img>
+<img src = "./images/03-management-tools-access-manager-03.PNG" width = "600px"> </img>
 
 ```
 keycloak의 user 정보  예)
@@ -86,11 +86,11 @@ WHERE   USER_NAME = {‘$USER_NAME$’}
 ### 2.2. 접속계정 관리
 - 직접 접속계정을 관리하는 기능
 
-<img src = "./images/03-management-tools-access-manager-05.png" width = "900px"> </img>
+<img src = "./images/03-management-tools-access-manager-05.PNG" width = "900px"> </img>
 
 #### 2.2.1. 접속계정 속성
 
-<img src = "./images/03-management-tools-access-manager-06.png" width = "500px"> </img>
+<img src = "./images/03-management-tools-access-manager-06.PNG" width = "500px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|

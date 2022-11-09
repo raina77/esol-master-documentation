@@ -15,8 +15,8 @@
 
 🎈 __Menu > 관리도구 > java lib(jar) > 등록__
 
-<img src = "./images/03-management-tools-javalib-02.png" width = "700px"> </img>
+<img src = "./images/03-management-tools-javalib-02.PNG" width = "700px"> </img>
 
-<img src = "./images/03-management-tools-javalib-03.png" width = "400px"> </img>
+<img src = "./images/03-management-tools-javalib-03.PNG" width = "400px"> </img>
 
-<img src = "./images/03-management-tools-javalib-04.png" width = "400px"> </img>
+<img src = "./images/03-management-tools-javalib-04.PNG" width = "400px"> </img>

@@ -14,11 +14,11 @@
 
 🎈 __menu > 서비스 > Memory Data > 생성__
 
-<img src = "./images/02-service-memory-01.png" width = "750px"> </img>
+<img src = "./images/02-service-memory-01.PNG" width = "750px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/02-service-memory-01-2.png" width = "600px"> </img>
+<img src = "./images/02-service-memory-01-2.PNG" width = "600px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -34,7 +34,7 @@
 
 #### 2.2.1. 속성 DB Service
 
-<img src = "./images/02-service-memory-01-3.png" width = "600px"> </img>
+<img src = "./images/02-service-memory-01-3.PNG" width = "600px"> </img>
 
 - 속성 > 구분 > DB Service(Read Only) 선택 시 미리 생성한 DB Service 항목들 중 선택 가능
 
@@ -43,15 +43,15 @@
 
 - JSON Format의 문자열 입력 가능
 
-<img src = "./images/02-service-memory-01-4.png" width = "600px"> </img>
+<img src = "./images/02-service-memory-01-4.PNG" width = "600px"> </img>
 
 ### 2.3. 테스트
 
 🎈 __생성된 Memory Data Item 선택 > 테스트실행__
 
-<img src = "./images/02-service-memory-01-5.png" width = "750px"> </img>
+<img src = "./images/02-service-memory-01-5.PNG" width = "750px"> </img>
 
 > 좌측: 구분-DB Service 선택 테스트 결과  
 > 우측: 구분-직접입력 선택 테스트 결과
 
-<img src = "./images/02-service-memory-01-6.png" width = "650px"> </img>
+<img src = "./images/02-service-memory-01-6.PNG" width = "650px"> </img>

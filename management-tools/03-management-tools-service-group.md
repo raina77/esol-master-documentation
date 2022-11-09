@@ -12,11 +12,11 @@
 
 🎈 __Menu > 관리도구 > 서비스그룹 > 생성__
 
-<img src = "./images/03-management-tools-service-group-01.png" width = "750px"> </img>
+<img src = "./images/03-management-tools-service-group-01.PNG" width = "750px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/03-management-tools-service-group-02.png" width = "400px"> </img>
+<img src = "./images/03-management-tools-service-group-02.PNG" width = "400px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|

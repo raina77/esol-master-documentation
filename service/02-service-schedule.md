@@ -11,11 +11,11 @@
 
 🎈 __menu > 서비스 > Schedule Service > 생성__
 
-<img src = "./images/02-service-schedule-01.png" width = "750px"> </img>
+<img src = "./images/02-service-schedule-01.PNG" width = "750px"> </img>
 
 ### 2.2. 속성
 
-<img src = "./images/02-service-schedule-01-2.png" width = "600px"> </img>
+<img src = "./images/02-service-schedule-01-2.PNG" width = "600px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -31,7 +31,7 @@
 
 #### 2.2.1. DB Service ID
 
-<img src = "./images/02-service-schedule-01-3.png" width = "550px"> </img>
+<img src = "./images/02-service-schedule-01-3.PNG" width = "550px"> </img>
 
 - __DB Service ID 선택 시__
 	- "DB Service" 는 platform에 등록된 DB Service를 호출하는 방식  

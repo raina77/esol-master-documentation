@@ -10,7 +10,7 @@
 ### 2.1. 생성
 - menu > 서비스 > File To Data > 생성
 
-![Service Create](./images/02-service-file2data-01.png)
+![Service Create](./images/02-service-file2data-01.PNG)
 
 ### 2.2. 속성
 
@@ -23,7 +23,7 @@
 | 인증체크 | 발급된 Token을 사용하여 서비스 사용시 인증 체크 사용 여부 |
 | Rule | [2.2.1 Rule 생성 및 사용 참조](#221-rule-생성-및-사용) |
 
-![Attribute](./images/02-service-file2data-02.png)
+![Attribute](./images/02-service-file2data-02.PNG)
 
 #### 2.2.1. Rule 생성 및 사용
 입력 룰을 등록 (rule이 복수개여도 현재일자 한개만 사용되므로 기간이 겹치면 안됨)  
@@ -43,7 +43,7 @@
 | 시작일자, 종료일자 | 룰 사용 날자 지정 (지정된 날자의 룰을 해당서비스에서 호출하게 되므로 1개만 사용할땐 범위를 길게 선택할것.) |
 | Excel Type인 경우 | 첫 행이 데이터인지 컬럼명인지에 따라 선택가능 |
 
-![F2D Rule](./images/02-service-file2data-03.png)
+![F2D Rule](./images/02-service-file2data-03.PNG)
 
 #### 2.2.2. Rule에 컬럼 추가 방법
 
@@ -58,7 +58,7 @@
 | 검증설정 | 해당 컬럼에 입력될 데이터 검증 설정 |
 | 치환설정 | 해당 컬럼에 입력될 데이터 치환 설정 |
 
-![F2D add Rule](./images/02-service-file2data-04.png)
+![F2D add Rule](./images/02-service-file2data-04.PNG)
 
 #### 2.2.3. 컬럼 검증설정
 ##### 2.2.3.1. 정규식
@@ -70,7 +70,7 @@
 | 에러메세지 | 검증에 걸렸을때 출력될 메세지 |
 | 정규식표현 | 검증할 정규식 |
 
-![F2D validation regex](./images/02-service-file2data-05.png)
+![F2D validation regex](./images/02-service-file2data-05.PNG)
 
 ##### 2.2.3.2. 일반
 
@@ -82,7 +82,7 @@
 | 항목유형 | 제한없음(문자), 숫자, 영문대문자, 영문소문자, 영문 중 선택가능 |
 | 최소, 최대 | 숫자일 경우 크기, 문자일 경우 문자 길이를 비교하며 값을 입력하지 않으면 제한없음 |
 
-![F2D validation default](./images/02-service-file2data-06.png)
+![F2D validation default](./images/02-service-file2data-06.PNG)
 
 ##### 2.2.3.3. 목록
 
@@ -95,7 +95,7 @@
 | Remove Value | 선택된 문자 제거 |
 | 검증목록 | 목록에 추가된 문자열만 해당 컬럼에 입력이 가능 |
 
-![F2D validation list](./images/02-service-file2data-07.png)
+![F2D validation list](./images/02-service-file2data-07.PNG)
 
 #### 2.2.3. 치환 설정
 
@@ -107,7 +107,7 @@
 | Remove Value | 선택된 문자 제거 |
 | 찾을 문자, 바꿀 문자 | 컬럼에 입력되는 데이터에서 찾을 문자를 찾아서 바꿀 문자로 치환|
 
-![F2D replace](./images/02-service-file2data-08.png)
+![F2D replace](./images/02-service-file2data-08.PNG)
 
 ### 2.3. 테스트
 
@@ -116,7 +116,7 @@
 1. 생성된 File To Database 아이템 선택 테스트 실행
 
 - 테스트 데이터 생성  
-![F2D Tset Request](./images/02-service-file2data-09.png)
+![F2D Tset Request](./images/02-service-file2data-09.PNG)
 
 - 테스트 실행과 결과 확인  
-![F2D Test Response](./images/02-service-file2data-10.png)
+![F2D Test Response](./images/02-service-file2data-10.PNG)

@@ -17,13 +17,13 @@
 
 🎈 __menu > 서비스 > Custom Service > 생성__
 
-<img src = "./images/02-service-custom-01.png" width = "750px"> </img>
+<img src = "./images/02-service-custom-01.PNG" width = "750px"> </img>
 
 #### 2.1.1. 웹 코딩
 
 🎈 __menu > 서비스 > Custom Service > 생성 > 하단 java editor mode__
 
-<img src = "./images/02-service-custom-01-2.png" width = "1100px"> </img>
+<img src = "./images/02-service-custom-01-2.PNG" width = "1100px"> </img>
 
 ##### 2.1.1.1. 속성
 | 구분 | 설명 |
@@ -50,7 +50,7 @@
 #### 2.1.2. class 파일 직접 업로드
 ##### 2.1.2.1. 속성
 
-<img src = "./images/02-service-custom-01-3.png" width = "700px"> </img>
+<img src = "./images/02-service-custom-01-3.PNG" width = "700px"> </img>
 
 | 구분 | 설명 |
 |:--:|:--|
@@ -67,13 +67,13 @@
 
 🎈 __생성된 Custom Service Item 선택 > 테스트실행__
 
-<img src = "./images/02-service-custom-01-4.png" width = "750px"> </img>
+<img src = "./images/02-service-custom-01-4.PNG" width = "750px"> </img>
 
 __테스트 결과__
 > HttpServletRequest.getParameterMap() 을 사용하여 parameter list를 tree map으로 받아 출력하는 예제
 > 출력은 작성된 로직에따라 다름.
 
-<img src = "./images/02-service-custom-01-5.png" width = "500px"> </img>
+<img src = "./images/02-service-custom-01-5.PNG" width = "500px"> </img>
 
 ---
 ## 3. Custom JAVA
