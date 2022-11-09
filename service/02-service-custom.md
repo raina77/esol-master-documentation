@@ -17,7 +17,7 @@
 
 🎈 __menu > 서비스 > Custom Service > 생성__
 
-<img src = "./images/02-service-custom-01.png" width = "750px"> </img>
+<img src = "./images/02-service-custom-01.PNG" width = "750px"> </img>
 
 #### 2.1.1. 웹 코딩
 
